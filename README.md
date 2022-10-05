@@ -1,4 +1,5 @@
 # Docker Getting Started Tutorial
+This is an edit I made to the READ.me file for this lab
 
 This tutorial has been written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
